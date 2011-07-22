@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Yo! Please touch with NFC!</string>
+    <string name="app_name">NFCReceive</string>
+
+</resources>
